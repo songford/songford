@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+Experienced DevOps Engineer/SRE with a demonstrated history of working in cloud settings. Skilled in CI/CD (Jenkins), Kubernetes/Istio, AWS, Terraform, Linux/Network Administration. CKA. SLI/SLO, Monitoring/Alerting. Can code in Java/Go.
+
+I’m currently learning OPA. It's quite fascinating. Yet to find a rule that you CAN'T define with it. 
+
+Fun fact: 
+I know how to fly an A320! Never tried that in real life though. 
 <!--
 **songford/songford** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
