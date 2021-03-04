@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 你好 👋
 
 Experienced DevOps Engineer/SRE with a demonstrated history of working in cloud settings. Skilled in CI/CD (Jenkins), Kubernetes/Istio, AWS, Terraform, Linux/Network Administration. CKA. SLI/SLO, Monitoring/Alerting. Can code in Java/Go.
 
